@@ -100,3 +100,5 @@ ENV/
 
 # mypy
 .mypy_cache/
+/grid_llc90
+/data.nas.nasa.gov
